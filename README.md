@@ -18,6 +18,17 @@ Full-featured Customer Relationship Management application built with Laravel 11
 
 ---
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Sales Pipeline & Deals Dashboard**<br>Ringkasan metrik KPI penjualan (Total Leads, Open Deals, Pipeline Value, Won Revenue, Pending Tasks), sales funnel tahapan kesepakatan, dan agenda tindak lanjut | ![Sales Pipeline & Deals Dashboard](docs/screenshots/01-dashboard-overview.png) |
+| **Manajemen Prospek & Kualifikasi Leads**<br>Formulir intake prospek baru, tag sumber akuisisi, status prospek, serta konversi instan satu klik menjadi deals dan kontak | ![Manajemen Prospek & Kualifikasi Leads](docs/screenshots/02-leads-management.png) |
+| **Direktori Kontak & Akun Perusahaan**<br>Katalog kontak profesional terintegrasi dengan profil akun perusahaan, jabatan, informasi telepon/email, serta ekspor data CSV | ![Direktori Kontak & Akun Perusahaan](docs/screenshots/03-contacts-companies-directory.png) |
+| **Agenda Aktivitas & Penjadwalan Tugas**<br>Pusat penjadwalan meeting, log panggilan telepon, tugas follow-up, catatan prospek, dan checklist penyelesaian aktivitas | ![Agenda Aktivitas & Penjadwalan Tugas](docs/screenshots/04-sales-activities-agenda.png) |
+
+---
+
 ## 2. Technology Stack
 
 - **Framework**: Laravel 11/13, Eloquent ORM
